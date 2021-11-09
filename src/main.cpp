@@ -18,9 +18,7 @@ struct State
 };
 
 CRGB leds[NUM_LEDS];
-
 CRGB le[10];
-
 byte prevEffect = 0;
 byte selectedEffect = 0;
 
